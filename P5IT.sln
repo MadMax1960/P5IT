@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Persona 5 Investigation Team", "Persona 5 Investigation Team\Persona 5 Investigation Team.csproj", "{AE265F15-F0C6-4BF9-BDE4-7493F0B76FC4}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CriFs.V2.Hook.Interfaces", "Interfaces\CriFs.V2.Hook.Interfaces\Interfaces\CriFs.V2.Hook.Interfaces\CriFs.V2.Hook.Interfaces.csproj", "{ED344473-7CAA-4217-AD8D-4541EDAFE74B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE265F15-F0C6-4BF9-BDE4-7493F0B76FC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE265F15-F0C6-4BF9-BDE4-7493F0B76FC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE265F15-F0C6-4BF9-BDE4-7493F0B76FC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE265F15-F0C6-4BF9-BDE4-7493F0B76FC4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED344473-7CAA-4217-AD8D-4541EDAFE74B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED344473-7CAA-4217-AD8D-4541EDAFE74B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED344473-7CAA-4217-AD8D-4541EDAFE74B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED344473-7CAA-4217-AD8D-4541EDAFE74B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {604AE7F0-028A-4CFE-93BA-5C60F2DD9364}
+	EndGlobalSection
+EndGlobal

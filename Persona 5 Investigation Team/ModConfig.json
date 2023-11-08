@@ -1,0 +1,21 @@
+{
+  "ModId": "Persona_5_Investigation_Team",
+  "ModName": "Persona 5: Investigation Team",
+  "ModAuthor": "A Mudkip",
+  "ModVersion": "1.0.0",
+  "ModDescription": "A massive overhaul to change P5R's characters to P4s. With character replacements, bustup replacements, audio replacements, ui replacements, battle overhauls, new personas, and new boss battles and skills, play P5R like you never have before. ",
+  "ModDll": "Persona_5_Investigation_Team.dll",
+  "ModIcon": "Preview.png",
+  "ModR2RManagedDll32": "x86/Persona_5_Investigation_Team.dll",
+  "ModR2RManagedDll64": "x64/Persona_5_Investigation_Team.dll",
+  "ModNativeDll32": "",
+  "ModNativeDll64": "",
+  "IsLibrary": false,
+  "ReleaseMetadataFileName": "Persona_5_Investigation_Team.ReleaseMetadata.json",
+  "PluginData": {},
+  "IsUniversalMod": false,
+  "ModDependencies": [ "reloaded.sharedlib.hooks" ],
+  "OptionalDependencies": [],
+  "SupportedAppId": [],
+  "ProjectUrl": ""
+}
